@@ -1,1 +1,1 @@
-# Author.. Andrey Sosnov
+# Author: Andrey Sosnov
